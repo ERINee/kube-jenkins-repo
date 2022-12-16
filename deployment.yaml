@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: hello-world
-        image: shinyerin/hell-world:7
+        image: shinyerin/hell-world:8
         ports:
         - containerPort: 8080
