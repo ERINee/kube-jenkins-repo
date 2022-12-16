@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: hello-world
-        image: docker.io/shinyerin/hello-world:2
+        image: shinyerin/hell-world:6
         ports:
         - containerPort: 8080
